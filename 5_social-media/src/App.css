@@ -1,0 +1,35 @@
+.social-media-container {
+  display: flex;
+}
+
+.header-footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.tags {
+  margin-right: 8px;
+}
+
+.reactions {
+  margin: 0px 10px 10px 10px;
+}
+
+.view-area {
+  padding: 30px;
+}
+
+.spinner {
+  margin: 20% 0px;
+}
+
+.spinner-border{
+  width: 3rem;
+  height: 3rem;
+}
